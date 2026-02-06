@@ -1,0 +1,24 @@
+[submodule "AI-102-AIEngineer"]
+	path = AI-102-AIEngineer
+	url = https://github.com/MicrosoftLearning/AI-102-AIEngineer.git
+[submodule "AZ-104-MicrosoftAzureAdministrator"]
+	path = AZ-104-MicrosoftAzureAdministrator
+	url = https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator.git
+[submodule "AZ-900-Microsoft-Azure-Fundamentals"]
+	path = AZ-900-Microsoft-Azure-Fundamentals
+	url = https://github.com/MicrosoftLearning/AZ-900-Microsoft-Azure-Fundamentals.git
+[submodule "AZ-305-DesigningMicrosoftAzureInfrastructureSolutions"]
+	path = AZ-305-DesigningMicrosoftAzureInfrastructureSolutions
+	url = https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions.git
+[submodule "AZ-204-DevelopingSolutionsforMicrosoftAzure"]
+	path = AZ-204-DevelopingSolutionsforMicrosoftAzure
+	url = https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure.git
+[submodule "AZ-204-mslearn-azure-developer"]
+	path = AZ-204-mslearn-azure-developer
+	url = https://github.com/MicrosoftLearning/mslearn-azure-developer.git
+[submodule "AZ-400-mslearn-devops"]
+	path = AZ-400-mslearn-devops
+	url = https://github.com/MicrosoftLearning/mslearn-devops.git
+[submodule "AI-900-mslearn-ai-fundamentals"]
+	path = AI-900-mslearn-ai-fundamentals
+	url = https://github.com/MicrosoftLearning/mslearn-ai-fundamentals.git
